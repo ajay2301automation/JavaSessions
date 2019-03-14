@@ -16,6 +16,7 @@ public class A {
 	{
 		System.out.println("Value of k:"+k);
 		System.out.println("value of l:"+l);
+		System.out.println("Vale is this");
 	}
 	
 }
