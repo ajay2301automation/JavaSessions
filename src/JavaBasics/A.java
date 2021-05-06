@@ -1,6 +1,8 @@
 package JavaBasics;	
 
 public class A {
+	
+	int dr;
 
 	public A()
 	{
